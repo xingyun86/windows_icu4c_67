@@ -1,0 +1,8 @@
+﻿  ctest.c
+  datamap.cpp
+  testdata.cpp
+  tstdtmod.cpp
+  uperf.cpp
+  ucln_ct.c
+     Creating library .\..\..\..\lib\icutestd.lib and object .\..\..\..\lib\icutestd.exp
+  ctestfw.vcxproj -> C:\Users\XINGYUN\Downloads\unicode-org_icu\icu4c\source\tools\ctestfw\.\x86\Debug\ctestfw.dll
